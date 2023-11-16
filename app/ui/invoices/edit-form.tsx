@@ -107,7 +107,7 @@ export default function EditInvoiceForm({
             <div className="flex gap-4">
               <div className="flex items-center">
                 <input
-                  id="pending"
+                  id="pending" 
                   name="status"
                   type="radio"
                   value="pending"
